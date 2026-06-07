@@ -56,6 +56,10 @@ This is useful when you want a drop-in mod workflow instead of replacing or rewr
 
 ## Installation
 
+Download:
+- [Godot Asset Library](https://godotengine.org/asset-library/asset/5228)
+- [GitHub Releases](https://github.com/wheedo07/GodotMods/releases)
+
 Copy the addon into your project:
 - `addons/GodotMods`
 
